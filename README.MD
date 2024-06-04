@@ -6,23 +6,29 @@ To provide students in Leander Independent District with a more convenient inter
 
 ## USER INSTRUCTIONS:
 1) Once the application is opened, you should see the home screen.
+
 ![Local Image](images/UserGuide1.png "Local Image")
 
 2) Click on the GPA Calculator.
 
 3) Once in the GPA Calculator application, select a subject for which you would like to enter your grades.
+
 ![Local Image](images/UserGuide3.png "Local Image")
 
 4) Next, click the Add New Course button on the left taskbar.
+
 ![Local Image](images/UserGuide4.png "Local Image")
 
 5) After being prompted with a field to enter relevant course information, users will enter the course level that matches the format. When prompted for semester grades, users can enter the grade with decimal places as long as they’re within the range of 0 -100. Any errors in format will be detected, and the user will be prompted for input again. After, a grade tab report should appear, and your GPA will automatically update on the bottom left.
+
 ![Local Image](images/UserGuide5.png "Local Image")
 
 6) If you would like to edit your course name, grade, or remove a course, select the Edit Course button on the taskbar. You will be prompted with instructions on how to edit the course name.
+
 ![Local Image](images/UserGuide6.png "Local Image")
 
 7) Once you’ve entered all the course grades for your chosen subject, click the Home button on the taskbar to return to the Title Screen or click the Back button to return to the GPA Calculator screen.
+
 ![Local Image](images/UserGuide7.png "Local Image")
 
 8) You can continue to use this interface for the rest of your subjects, and your final GPA will be displayed automatically!
