@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.target=ListMap
+comment1.params=
+comment1.target=ListMap()
+comment10.params=
+comment10.target=Set\ keySet()
+comment10.text=\r\n\ \ \ \ Return\ a\ Set<E>\ of\ the\ keys\ that\ have\ associations\ in\ this\ map\r\n
+comment2.params=key
+comment2.target=boolean\ containsKey(java.lang.Object)
+comment2.text=\r\n\ \ \ \ Return\ true\ if\ this\ map\ contains\ the\ specified\ key\r\n\ \ \ \ Precondition\:\ key\ \!\=\ null\r\n
+comment3.params=value
+comment3.target=boolean\ containsValue(java.lang.Object)
+comment3.text=\r\n\ \ \ \ Return\ true\ if\ this\ map\ contins\ the\ specified\ value\r\n\ \ \ \ Precondition\:\ value\ \!\=\ null\r\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\r\n\ \ \ \ Return\ true\ is\ this\ map\ contains\ no\ Nodes\r\n
+comment5.params=
+comment5.target=int\ size()
+comment5.text=\r\n\ \ \ \ Return\ the\ number\ of\ Nodes\ this\ map\ contains\r\n
+comment6.params=key
+comment6.target=java.lang.Object\ get(java.lang.Object)
+comment6.text=\r\n\ \ \ \ Return\ the\ value\ of\ the\ Node\ that\ has\ the\ specified\ key\r\n\ \ \ \ If\ there\ is\ no\ Node\ with\ the\ specified\ key,\ then\ return\ null\r\n
+comment7.params=key\ value
+comment7.target=java.lang.Object\ put(java.lang.Object,\ java.lang.Object)
+comment7.text=\r\n\ \ \ \ Associate\ the\ specified\ value\ with\ the\ specified\ key\r\n\ \ \ \ If\ the\ map\ already\ contains\ the\ specified\ key,\ then\ replace\ \r\n\ \ \ \ the\ value\ of\ that\ key\ and\ return\ the\ original\ value.\r\n\ \ \ \ Otherwise\ add\ a\ new\ Node\ to\ the\ map\ and\ return\ null.\r\n\ \ \ \ Precondition\:\ key\ \!\=\ null\ &&\ value\ \!\=\ null\r\n
+comment8.params=key
+comment8.target=java.lang.Object\ remove(java.lang.Object)
+comment8.text=\r\n\ \ \ \ Remove\ the\ association\ for\ the\ specified\ key\ from\ this\ map.\r\n\ \ \ \ Return\ the\ value\ that\ was\ associated\ with\ the\ specified\ key\r\n\ \ \ \ Or\ return\ null\ if\ no\ value\ was\ associated\ with\ the\ key.\r\n\ \ \ \ Precondition\:\ key\ \!\=\ null\r\n
+comment9.params=
+comment9.target=java.util.List\ values()
+comment9.text=\r\n\ \ \ \ Return\ a\ List<V>\ of\ the\ values\ that\ are\ stored\ in\ this\ map\r\n
+numComments=11

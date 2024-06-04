@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GPACalculator
+comment1.params=
+comment1.target=GPACalculator()
+comment2.params=
+comment2.target=void\ createLabels()
+comment3.params=updated
+comment3.target=void\ updateGPANumber(double)
+comment4.params=
+comment4.target=void\ displayGPA()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ calculateFinalGPA()
+numComments=7

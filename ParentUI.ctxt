@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ParentUI
+comment1.params=
+comment1.target=ParentUI()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=PanelButton\ getHome()
+comment4.params=
+comment4.target=PanelButton\ getReset()
+comment5.params=
+comment5.target=PanelButton\ getExit()
+comment6.params=
+comment6.target=PanelButton\ getAddCourse()
+comment7.params=
+comment7.target=void\ addCourseButton()
+numComments=8
