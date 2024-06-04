@@ -8,9 +8,7 @@ To provide students in Leander Independent District with a more convenient inter
 1) Once the application is opened, you should see the home screen.
 ![Local Image](images/UserGuide1.png "Local Image")
 
-
 2) Click on the GPA Calculator.
-![Local Image](images/UserGuide2.png "Local Image")
 
 3) Once in the GPA Calculator application, select a subject for which you would like to enter your grades.
 ![Local Image](images/UserGuide3.png "Local Image")
