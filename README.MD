@@ -6,6 +6,8 @@ To provide students in Leander Independent District with a more convenient inter
 
 ## USER INSTRUCTIONS:
 1) Once the application is opened, you should see the home screen.
+![Local Image](images/UserGuide1.png "Local Image")
+
 2) Click on the GPA Calculator.
 3) Once in the GPA Calculator application, select a subject for which you would like to enter your grades.
 4) Next, click the Add New Course button on the left taskbar.
@@ -25,6 +27,3 @@ Average of all Individual Course GPAs → Subject GPA
 Average of all Subject GPAs → Final Cumulative GPA
 
 When a new course is input into the system, a rectangular box will appear on the screen outlining the course name, the 2 semester GPAs, and the 2 rounded semester grades. 8 total boxes can fill a screen, and students can traverse through each subject tab as the program saves the previously inputted course information. Students also can modify existing courses inputted into the system, whether they would like to change a course name, change a grade for a course, or remove a course. Students will simply type in the course that they would like to modify and how they would like to change the course. Whichever option is selected, the program will automatically update the final cumulative GPA calculation and update the course boxes displayed on the screen. For example, the program will prompt the user for a course to change. If “REMOVE COURSE” is selected, the existing course will be removed from all of the GPA calculations and the course box displayed on the screen will be removed.
-
-
-
