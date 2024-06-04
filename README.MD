@@ -24,6 +24,8 @@ To provide students in Leander Independent District with a more convenient inter
 ![Local Image](images/UserGuide6.png "Local Image")
 
 7) Once you’ve entered all the course grades for your chosen subject, click the Home button on the taskbar to return to the Title Screen or click the Back button to return to the GPA Calculator screen.
+![Local Image](images/UserGuide7.png "Local Image")
+
 8) You can continue to use this interface for the rest of your subjects, and your final GPA will be displayed automatically!
 
 ## IN-DEPTH PROJECT DESCRIPTION:
