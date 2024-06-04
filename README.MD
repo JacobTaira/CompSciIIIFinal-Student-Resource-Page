@@ -1,10 +1,10 @@
-<h1>PROJECT TITLE: Student GPA Calculator Application</h1>
+##PROJECT TITLE: Student GPA Calculator Application</h1>
 
 ## PURPOSE OF PROJECT: To provide students in Leander Independent District with a more convenient interface to calculate their final weighted GPAs according to the district-wide calculation policy  
 
-# VERSION or DATE: 6/3/24
+## VERSION or DATE: 6/3/24
 
-# USER INSTRUCTIONS:
+## USER INSTRUCTIONS:
 1) Once the application is opened, you should see the home screen.
 2) Click on the GPA Calculator.
 3) Once in the GPA Calculator application, select a subject for which you would like to enter your grades.
@@ -14,7 +14,7 @@
 7) Once you’ve entered all the course grades for your chosen subject, click the Home button on the taskbar to return to the Title Screen or click the Back button to return to the GPA Calculator screen.
 8) You can continue to use this interface for the rest of your subjects, and your final GPA will be displayed automatically!
 
-IN-DEPTH PROJECT DESCRIPTION:
+## IN-DEPTH PROJECT DESCRIPTION:
 At its core, our program offers students a more convenient way to calculate their cumulative GPAs throughout high school while also factoring in the specific rules LISD has set in place regarding GPA calculation for the class of 2025 and beyond. For instance, our program ensures students will receive the most accurate calculation by only taking the top 8 semesters for each course, as outlined on the LISD website. Our program also provides a live calculation of the student’s GPA as each course is added, which allows for functions, such as a “What If” GPA calculator where students can calculate predicted GPAs for future semesters. 
 
 Using our easy-to-understand interface, students simply have to enter their course information (course level, course name, semester 1 grade, semester 2 grade) for each subject (Math, Science, Social Studies, English, LOTE), and their final GPA is calculated and updated automatically. We simply take the semester grades entered for that course by the student, round that input into an integer grade value, and calculate a subject GPA based on the weighting scale implemented by VRHS. Next, a final cumulative GPA is calculated by averaging each subject’s GPA.
