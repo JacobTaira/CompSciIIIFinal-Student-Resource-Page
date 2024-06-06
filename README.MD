@@ -2,7 +2,7 @@
 Student GPA Calculator Application
 
 ## PURPOSE OF PROJECT:
-To provide students in Leander Independent District with a more convenient interface to calculate their final weighted GPAs according to the district-wide [calculation policy](https://www.leanderisd.org/classranking/) 
+To provide students in Leander Independent School District with a more convenient interface to calculate their final weighted GPAs according to the district-wide [calculation policy](https://www.leanderisd.org/classranking/) 
 
 ## USER INSTRUCTIONS:
 1) Once the application is opened, you should see the home screen.
